@@ -3,7 +3,8 @@
 ## Introduction:
 
 ```
-when user search for a city the current and future weather conditions for that city will display as following and that city is added to the search history:
+when user search for a city the current and future weather conditions for
+that city will display as following and that city is added to the search history:
 - City name
 - Date
 - An icon representation of weather conditions
@@ -16,10 +17,10 @@ when user search for a city the current and future weather conditions for that c
 
 The following image shows the web application's appearance and functionality:
 
-![Scree Capture](screencapture.PNG)
+![Scree Capture](screencapture.png)
 
 ## URLs:
 
-- The URL of the deployed application:
+- The URL of the deployed application: https://ekhosr.github.io/Weather-Dashboard/
 
-- The URL of the GitHub repository:
+- The URL of the GitHub repository: https://github.com/ekhosr/Weather-Dashboard.git
