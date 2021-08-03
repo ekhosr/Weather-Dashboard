@@ -16,7 +16,7 @@ when user search for a city the current and future weather conditions for that c
 
 The following image shows the web application's appearance and functionality:
 
-![Scree Capture](./screencapture.PNG)
+![Scree Capture](/screencapture.PNG)
 
 ## URLs:
 
